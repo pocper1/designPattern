@@ -226,34 +226,6 @@ public:
 -   **Documentation** / 文檔: 23 detailed README files / 23 個詳細 README 檔案
 -   **Diagrams** / 圖表: 23 Mermaid architecture diagrams / 23 個 Mermaid 架構圖
 
-## 🤝 Contributing / 貢獻指南
-
-We welcome contributions! Here's how you can help:
-歡迎貢獻！以下是您可以幫助的方式：
-
-### 🎯 How to Contribute / 如何貢獻
-
-1. **Add Patterns** / 新增模式: Implement missing design patterns / 實作缺少的設計模式
-2. **Improve Documentation** / 改進文檔: Enhance existing pattern explanations / 完善現有模式說明
-3. **Add Languages** / 新增語言: Add implementations in other languages / 新增其他語言的實作
-4. **Fix Issues** / 修正問題: Correct code or documentation errors / 修正程式碼或文檔錯誤
-
-### 📝 Contribution Process / 貢獻流程
-
-1. Fork this repository / Fork 本專案
-2. Create a feature branch / 創建功能分支 (`git checkout -b feature/amazing-pattern`)
-3. Commit your changes / 提交變更 (`git commit -m 'Add amazing pattern'`)
-4. Push to the branch / 推送到分支 (`git push origin feature/amazing-pattern`)
-5. Open a Pull Request / 開啟 Pull Request
-
-### 📋 Contribution Guidelines / 貢獻準則
-
--   Follow existing code style and conventions / 遵循現有的程式碼風格和慣例
--   Add appropriate comments and documentation / 添加適當的註解和文檔
--   Include Mermaid diagrams for new patterns / 為新模式包含 Mermaid 圖表
--   Test your implementations / 測試您的實作
--   Update relevant documentation / 更新相關文檔
-
 ## 📄 License / 授權
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -268,13 +240,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact / 聯絡方式
 
 -   **GitHub Issues** / GitHub 問題: [Report bugs or request features](https://github.com/pocper1/DesignPattern/issues) / [回報錯誤或請求功能](https://github.com/pocper1/DesignPattern/issues)
--   **Discussions** / 討論: [Join the community](https://github.com/pocper1/DesignPattern/discussions) / [加入社群](https://github.com/pocper1/DesignPattern/discussions)
 
 ---
 
 ⭐ **Star this repository if you find it helpful!** / **如果覺得有幫助，請給這個專案一個星標！**
-
-🔗 **Share with your network to help others learn design patterns!** / **分享給您的網路，幫助其他人學習設計模式！**
 
 ---
 
